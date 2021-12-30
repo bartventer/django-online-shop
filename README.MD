@@ -72,7 +72,7 @@ RabbitMQ is configured as the broker and Celery workers execute the queued tasks
 - Client receives an email notification with an invoice attached
 - Email
 ![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/14.%20127.0.0.1_8000_payment_done_%20email%20received.png?raw=true)
-- Invoice attachment![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/15.%20payment%20done_%20invoice%20email%20attachment.png?raw=true)
+- Invoice attachment![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/15.%20payment%20done_%20invoice%20email%20attachment_1.png?raw=true)
 
 - Monitor Celery asynchronous task execution on Flower
 ![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/15.1%20localhost_5555_tasks.png?raw=true)
