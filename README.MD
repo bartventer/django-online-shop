@@ -70,7 +70,6 @@ RabbitMQ is configured as the broker and Celery workers execute the queued tasks
 ![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/13.%20127.0.0.1_8000_payment_done_%20(1).png?raw=true)
 
 - Client receives an email notification with an invoice attached
-- Email
 ![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/14.%20127.0.0.1_8000_payment_done_%20email%20received.png?raw=true)
 - Invoice attachment![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/15.%20payment%20done_%20invoice%20email%20attachment_1.png?raw=true)
 
@@ -84,7 +83,6 @@ RabbitMQ is configured as the broker and Celery workers execute the queued tasks
 - Home
 ![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/17.%20127.0.0.1_8000_admin_.png?raw=true)
 
-- Orders view
-Shows order status (paid/unpaid), and includes a few custom functions, such as viewing the detail order, download to csv, or print the pdf invoice (same as invoice screenshot above as received by the client)
+- Orders view: shows order status (paid/unpaid), and includes a few custom functions, such as viewing the detail order, download to csv, or print the pdf invoice (same as invoice screenshot above as received by the client)
 ![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/18.%20admin_site_orders.png?raw=true)
 ![enter image description here](https://github.com/bartventer/django-online-shop/blob/master/myshop/github_images/19.%20admin_export_to_csv.png?raw=true)
